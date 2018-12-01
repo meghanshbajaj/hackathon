@@ -1,0 +1,9 @@
+<h1>Software List</h1>
+<ul>
+<li>Pycharm</li>
+<li>Powerpoint</li>
+<li>Microsoft Azure</li>
+<li>Microsoft Word</li>
+<li>Notepad</li>
+<li>Microsoft Excel</li>
+</ul>
